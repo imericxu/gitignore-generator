@@ -26,3 +26,5 @@ This will create a file `generated.gitignore` with the given templates combined 
 - [Rust](https://github.com/github/gitignore/blob/master/Rust.gitignore)
 - [Swift](https://github.com/github/gitignore/blob/master/Swift.gitignore)
 - [Windows](https://github.com/github/gitignore/blob/master/Global/Windows.gitignore)
+
+If you want a template not on here, simply add it to `templates.json` and it will work :)
