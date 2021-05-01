@@ -23,8 +23,10 @@ This will create a file `generated.gitignore` with the given templates combined 
 - [Java](https://github.com/github/gitignore/blob/master/Java.gitignore)
 - [JetBrains](https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore)
 - [macOS](https://github.com/github/gitignore/blob/master/Global/macOS.gitignore)
+- [Python](https://github.com/github/gitignore/blob/master/Python.gitignore)
 - [Rust](https://github.com/github/gitignore/blob/master/Rust.gitignore)
 - [Swift](https://github.com/github/gitignore/blob/master/Swift.gitignore)
+- [VSCode](https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore)
 - [Windows](https://github.com/github/gitignore/blob/master/Global/Windows.gitignore)
 
 If you want a template not on here, simply add it to `templates.json` and it will work :)

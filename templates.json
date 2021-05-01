@@ -4,7 +4,9 @@
 	"Java": "Java.gitignore",
 	"JetBrains": "Global/JetBrains.gitignore",
 	"macOS": "Global/macOS.gitignore",
+	"Python": "Python.gitignore",
 	"Rust": "Rust.gitignore",
 	"Swift": "Swift.gitignore",
-	"Windows": "Global/Windows.gitignore"
+	"Windows": "Global/Windows.gitignore",
+	"VSCode": "Global/VisualStudioCode.gitignore"
 }
