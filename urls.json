@@ -1,10 +1,10 @@
 {
-	"C++": "https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore",
-	"CMake": "https://github.com/github/gitignore/blob/master/CMake.gitignore",
-	"Java": "https://github.com/github/gitignore/blob/master/Java.gitignore",
-	"JetBrains": "https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore",
-	"macOS": "https://github.com/github/gitignore/blob/master/Global/macOS.gitignore",
-	"Rust": "https://github.com/github/gitignore/blob/master/Rust.gitignore",
-	"Swift": "https://github.com/github/gitignore/blob/master/Swift.gitignore",
-	"Windows": "https://github.com/github/gitignore/blob/master/Global/Windows.gitignore"
+	"C++": "https://raw.githubusercontent.com/github/gitignore/master/C%2B%2B.gitignore",
+	"CMake": "https://raw.githubusercontent.com/github/gitignore/master/CMake.gitignore",
+	"Java": "https://raw.githubusercontent.com/github/gitignore/master/Java.gitignore",
+	"JetBrains": "https://raw.githubusercontent.com/github/gitignore/master/Global/JetBrains.gitignore",
+	"macOS": "https://raw.githubusercontent.com/github/gitignore/master/Global/macOS.gitignore",
+	"Rust": "https://raw.githubusercontent.com/github/gitignore/master/Rust.gitignore",
+	"Swift": "https://raw.githubusercontent.com/github/gitignore/master/Swift.gitignore",
+	"Windows": "https://raw.githubusercontent.com/github/gitignore/master/Global/Windows.gitignore"
 }
