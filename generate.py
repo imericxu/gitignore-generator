@@ -4,7 +4,7 @@ import sys
 
 names = sys.argv[1:]
 
-with open('types.json') as f:
+with open('templates.json') as f:
     templates = json.load(f)
 f = open('generated.gitignore', 'w')
 
