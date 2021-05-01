@@ -14,7 +14,7 @@ This will create a file `generated.gitignore` with the given templates combined 
 
 ```
 ##############################
-# Swift                      #
+# SomeTemplate               #
 ##############################
 ```
 
