@@ -1,2 +1,3 @@
 generated.gitignore
 .vscode/
+.DS_Store
