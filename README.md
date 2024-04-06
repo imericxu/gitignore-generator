@@ -1,5 +1,7 @@
 # `.gitignore` Template Generator
 
+**Discovered [`simonwhitaker/gibo`](https://github.com/simonwhitaker/gibo) which is basically what I was going for.**
+
 Combines `.gitignore` files from the `github/gitignore` repository.
 
 I’ve only added functionality for templates I use personally.
